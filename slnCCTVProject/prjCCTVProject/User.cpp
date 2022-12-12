@@ -16,6 +16,8 @@ public:
 		this->permissions = permissions;
 	}
 
+	User() {}
+
 	// Method to get the user's account
 	Account getAccount() {
 		return account;
