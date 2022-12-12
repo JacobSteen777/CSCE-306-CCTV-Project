@@ -132,6 +132,7 @@
     <ClCompile Include="Customer.cpp" />
     <ClCompile Include="logger.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Manager.cpp" />
     <ClCompile Include="Orders.cpp" />
     <ClCompile Include="Permissions.cpp" />
     <ClCompile Include="Phone_Number.cpp" />
@@ -144,6 +145,7 @@
     <ClInclude Include="logger.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="dvr.txt" />
     <Text Include="users.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
