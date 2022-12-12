@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Downloads\NCC Nonsense\Program 2\Program 2 Final Version\slnProgram2\prjProgram2\input_validation.cpp" />
     <ClCompile Include="Address.cpp" />
     <ClCompile Include="logger.cpp" />
     <ClCompile Include="Main.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="Product.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Downloads\NCC Nonsense\Program 2\Program 2 Final Version\slnProgram2\prjProgram2\input_validation.h" />
     <ClInclude Include="Address.h" />
     <ClInclude Include="logger.h" />
   </ItemGroup>
