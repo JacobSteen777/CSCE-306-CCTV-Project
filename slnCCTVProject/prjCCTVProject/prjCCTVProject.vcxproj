@@ -145,6 +145,8 @@
     <ClInclude Include="logger.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="accessories.txt" />
+    <Text Include="camera.txt" />
     <Text Include="dvr.txt" />
     <Text Include="users.txt" />
   </ItemGroup>

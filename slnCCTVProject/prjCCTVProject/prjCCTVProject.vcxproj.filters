@@ -63,5 +63,7 @@
   <ItemGroup>
     <Text Include="users.txt" />
     <Text Include="dvr.txt" />
+    <Text Include="camera.txt" />
+    <Text Include="accessories.txt" />
   </ItemGroup>
 </Project>

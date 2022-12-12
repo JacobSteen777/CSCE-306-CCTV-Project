@@ -316,6 +316,7 @@ int main()
 			fileWrite << "\n" << temp;
 			std::cout << temp << " has been added!\nEnter anything to exit" << std::endl;
 			std::cin >> temp;
+			fileWrite.close();
 			break;
 		}
 	}
