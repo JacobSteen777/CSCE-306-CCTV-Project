@@ -132,7 +132,7 @@
     <ClCompile Include="logger.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Orders.cpp" />
-    <ClCompile Include="permissions.cpp" />
+    <ClCompile Include="Permissions.cpp" />
     <ClCompile Include="Phone_Number.cpp" />
     <ClCompile Include="Product.cpp" />
   </ItemGroup>
