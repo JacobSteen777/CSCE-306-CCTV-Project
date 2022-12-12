@@ -1,11 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
-void Clear()
-{
-	std::cout << "\x1B[2J\x1B[H";
-}
+#include "Input_Validation.cpp"
 
 int main()
 {

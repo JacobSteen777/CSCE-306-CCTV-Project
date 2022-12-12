@@ -1,6 +1,12 @@
 #pragma once
 #include <iostream>
 
+// Clears the command line
+void Clear()
+{
+    std::cout << "\x1B[2J\x1B[H";
+}
+
 // Clears out Cin in order to detect new inputted ints
 void clearCin()
 {
