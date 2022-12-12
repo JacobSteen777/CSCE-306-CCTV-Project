@@ -1,3 +1,4 @@
+#pragma once
 #include "logger.h"
 #include <fstream>
 #include <iostream>
