@@ -21,10 +21,16 @@
     <ClCompile Include="logger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="permissions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="logger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="users.txt" />
   </ItemGroup>
 </Project>
