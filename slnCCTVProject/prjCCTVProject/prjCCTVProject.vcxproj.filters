@@ -45,6 +45,9 @@
     <ClCompile Include="Customer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sales.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="logger.h">

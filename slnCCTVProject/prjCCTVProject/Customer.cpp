@@ -11,6 +11,8 @@ public:
 		this->type = type;
 	}
 
+	Customer() {}
+
 	// Method to get the customer type
 	std::string getType() {
 		return type;
