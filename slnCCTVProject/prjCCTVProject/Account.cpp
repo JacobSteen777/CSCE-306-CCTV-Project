@@ -20,6 +20,8 @@ public:
 		setName(name);
 	}
 
+	Account() {}
+
 	// Method to get the user ID
 	std::string getUserID() {
 		return userID;

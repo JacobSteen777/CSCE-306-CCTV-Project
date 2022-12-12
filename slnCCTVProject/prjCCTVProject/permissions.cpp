@@ -11,6 +11,8 @@ public:
 		this->permission = permission;
 	}
 
+	Permissions() {}
+
 	// Method to get the permission
 	std::string getPermission() {
 		return permission;
