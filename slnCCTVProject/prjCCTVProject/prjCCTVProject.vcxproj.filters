@@ -30,6 +30,9 @@
     <ClCompile Include="Orders.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Phone_Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="logger.h">
