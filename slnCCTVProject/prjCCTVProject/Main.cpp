@@ -1,3 +1,8 @@
+/*
+Names: Jacob Steen, Asser Moustafa, Faizan Mehmood
+Program Name: CCTV Purchase Platform
+Purpose: To allow users to navigate through a series of menus, be able to make orders, and be able to see products
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
