@@ -36,7 +36,7 @@
     <ClCompile Include="Address.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Input_Validation.cpp">
+    <ClCompile Include="Account.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

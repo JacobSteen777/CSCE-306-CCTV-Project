@@ -1,10 +1,8 @@
+#pragma once
 #include<string>
 #include "Address.h"
 
-Address::Address()
-{
-	setStreet("The Roadside");
-}
+Address::Address() {}
 
 Address::Address(std::string newstreet, std::string newcity, std::string newstate, std::string newzip)
 {

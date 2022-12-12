@@ -17,6 +17,8 @@ public:
 		this->home_number = home_number;
 	}
 
+	Phone_Number() {}
+
 	// Method to get the cell phone number
 	std::string getCell_Number() {
 		return cell_number;
