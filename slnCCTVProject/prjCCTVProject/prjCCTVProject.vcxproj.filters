@@ -36,7 +36,7 @@
     <ClCompile Include="Address.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\NCC Nonsense\Program 2\Program 2 Final Version\slnProgram2\prjProgram2\input_validation.cpp">
+    <ClCompile Include="Input_Validation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -45,9 +45,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Address.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\NCC Nonsense\Program 2\Program 2 Final Version\slnProgram2\prjProgram2\input_validation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
