@@ -135,6 +135,7 @@
     <ClCompile Include="Permissions.cpp" />
     <ClCompile Include="Phone_Number.cpp" />
     <ClCompile Include="Product.cpp" />
+    <ClCompile Include="User.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Address.h" />
